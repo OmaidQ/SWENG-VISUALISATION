@@ -5,7 +5,8 @@ Can be accesssed by the link: https://sweng-visualisation.herokuapp.com/
 Able to search for GitHub users who have been authorised e.g. KennethHarmon and kvnkarthik02
 
 
-To do it manually:
+```To do it manually:```
+
 Install virtualenv by:
 ```pip install virtualenv```
 
