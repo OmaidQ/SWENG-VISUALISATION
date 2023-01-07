@@ -1,4 +1,5 @@
-Latest version of main branch will be deployed to https://sweng-visualisation.herokuapp.com/
+GitHub App Visualiser
+Can be viewed by the link: https://sweng-visualisation.herokuapp.com/
 
 Able to search for GitHub users who have been authorised e.g. KennethHarmon and kvnkarthik02
 
